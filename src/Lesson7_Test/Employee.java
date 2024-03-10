@@ -19,7 +19,7 @@ public class Employee{
     public void methodOne() {
         System.out.println(id);
     }
-
+// eowijw
     public void methodToo () {
         System.out.println(surname);
     }
