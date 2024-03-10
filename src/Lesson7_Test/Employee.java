@@ -6,7 +6,7 @@ public class Employee{
     private double salary;
 
 
-
+// ro eore
     public Employee (int id, String surname, double salary){
     this.surname =
     }
