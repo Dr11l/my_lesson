@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ΟΪ€ϋÿÿÿÿ8”ρνδ1
+m	java:S116"LRename this field "X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»½Σΐψÿÿÿÿ8–ρνδ1
+n	java:S116"RRename this field "Zzzz_zz" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΔΨα©8–ρνδ1
+C
+java:S1170"!Make this final field static too.(»½Σΐψÿÿÿÿ8–ρνδ1
+W
+java:S1854"5Remove this useless assignment to local variable "a".(ς†δύÿÿÿÿ8—ρνδ1
+R
+java:S1854"5Remove this useless assignment to local variable "c".(ΤυΌ8—ρνδ1
+C
+java:S1481"&Remove this unused "c" local variable.(ΤυΌ8ρνδ1
+H
+java:S1481"&Remove this unused "a" local variable.(ς†δύÿÿÿÿ8ρνδ1

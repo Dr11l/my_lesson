@@ -1,26 +1,27 @@
 package Lesson9;
 
 public class Car {
+    final int X = 3;
+    int Zzzz_zz = 5;
+    int zzzzzzzzzzzzzzzzzzzzz = 3;
+
+
     String color;
+    int a = 10;
     String engine;
     static int count;
 
-    Car(String color2, String engine2) {
-        count++;
-        color = color2;
-        engine = engine2;
+
+    Car(String color, String engine) {
+
+        this.color = color;
+        this.engine = engine;
     }
 
-    public void showColor() {
-        System.out.println("Цвет машины: " + "color");
-    }
+        public static void main (String[]args){
+            Car c = new Car("red", "V6");
+            int a = 10;
+        }
 
-    public void engineColor(String color3) {
-        System.out.println("Цвет машины изменился");
-        int cena = 5000;
-        color = color3;
-        cena += 1000;
 
-    }
 }
-

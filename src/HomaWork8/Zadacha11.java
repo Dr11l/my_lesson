@@ -1,6 +1,6 @@
 package HomaWork8;
 
-public class Zadacha1 {
+public class Zadacha11 {
     static double umnojenie(double a, double b, double c) {
         return a * b * c;
     }
@@ -10,12 +10,12 @@ public class Zadacha1 {
     }
 }
 
-class ZadachaTest1 {
+class ZadachaTest11 {
     public static void main(String[] args) {
-        System.out.println(Zadacha1.umnojenie(2, 3, 4));
-        Zadacha1.delenie(9, 2);
-        System.out.println(Zadacha1.umnojenie(2.5, 3.5, 4));
-        Zadacha1.delenie(15, 4);
+        System.out.println(Zadacha11.umnojenie(2, 3, 4));
+        Zadacha11.delenie(9, 2);
+        System.out.println(Zadacha11.umnojenie(2.5, 3.5, 4));
+        Zadacha11.delenie(15, 4);
 
     }
 }

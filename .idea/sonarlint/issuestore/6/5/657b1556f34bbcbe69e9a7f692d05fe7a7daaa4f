@@ -1,0 +1,11 @@
+
+|
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "pl".(óÿÅøÿÿÿÿ8®îöêä1
+w
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "dl".(ù¿—ª8®îöêä1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´„Ä8®îöêä1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‹Æûö8³îöêä1
+G	java:S106"+Replace this use of System.out by a logger.(Úâ„Û8´îöêä1
+L	java:S106"+Replace this use of System.out by a logger.(Å¢—‹úÿÿÿÿ8´îöêä1
+L	java:S106"+Replace this use of System.out by a logger.(·úñ­üÿÿÿÿ8´îöêä1
