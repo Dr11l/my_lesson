@@ -14,27 +14,33 @@ public class Student {
     }
 
     public static void showCount() {
-        System.out.println("Vsego sozdano studentov " + count);
+        System.out.println("Всего создано студентов " + count);
+
     }
 
-    public void showInfo() {
-        System.out.println("Welcome to the Student class");
-    }
 
     void abc() {
         a++;
+
     }
 
     static void abcd() {
         count++;
-        Student st2 = new Student("Petr", 3);
+        Student st2= new Student("Petr", 3);
         st2.a++;
+
     }
 
 
+    public void showInfo() {
+        System.out.println("Welcome to the Student class!!!");
+    }
+
     public static void main(String[] args) {
     abcd();
-        Student st3= new Student("Maks", 6);
-        st3.abc();
+    Student st3 = new Student("Ivan", 4);
+    st3.abc();
+
+
     }
 }
