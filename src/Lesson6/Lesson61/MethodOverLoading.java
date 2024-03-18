@@ -1,4 +1,4 @@
-package Lesson6;
+package Lesson6.Lesson61;
 
 public class MethodOverLoading {
 

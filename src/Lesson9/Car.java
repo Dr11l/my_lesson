@@ -7,21 +7,21 @@ public class Car {
 
 
     String color;
-    int a = 10;
+    public static int ab = 10;
     String engine;
-    static int count;
+    public static int count;
 
 
-    Car(String color, String engine) {
+    public Car(String color, String engine) {
 
         this.color = color;
         this.engine = engine;
     }
 
-        public static void main (String[]args){
-            Car c = new Car("red", "V6");
-            int a = 10;
-        }
+    public static void main(String[] args) {
+        Car c = new Car("red", "V6");
+        int a = 10;
+    }
 
 
 }

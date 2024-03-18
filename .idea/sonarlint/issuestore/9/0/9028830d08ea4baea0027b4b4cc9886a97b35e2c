@@ -1,18 +1,22 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ÏÚ€ûÿÿÿÿ8ç¦íä1
-d
-java:S2094"BRemove this empty class, write its code or make it an "interface".(¯¶´Ôûÿÿÿÿ8ç¦íä1
+j
+java:S1104"MMake c a static final constant or non-public and provide accessors if needed.(ùÀİŸ8Ûûí“å1
+o
+java:S1104"MMake z a static final constant or non-public and provide accessors if needed.(ÂàÒ“ıÿÿÿÿ8üì“å1
+D
+java:S1444"'Make this "public static c" field final(ùÀİŸ8Ûûí“å1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ÏÚ€ûÿÿÿÿ8Ô©ê“å1
+W
+java:S2209"5Change this instance-reference to a static reference.(ÂàÒ“ıÿÿÿÿ8Ù©ê“å1
 S
-java:S1854"7Remove this useless assignment to local variable "st1".(Ó¬ŸG8ç¦íä1
+java:S1854"7Remove this useless assignment to local variable "st1".(Ó¬ŸG8°íê“å1
 T
-java:S1854
-"7Remove this useless assignment to local variable "st2".(ÙÊ¶÷8ç¦íä1
+java:S1854"7Remove this useless assignment to local variable "st2".(ÙÊ¶÷8Ù©ê“å1
 T
-java:S1854	"7Remove this useless assignment to local variable "st1".(ê¬ï8ç¦íä1
+java:S1854"7Remove this useless assignment to local variable "st1".(ê¬ï8°íê“å1
 E
-java:S1481	"(Remove this unused "st1" local variable.(ê¬ï8‘ç¦íä1
+java:S1481"(Remove this unused "st1" local variable.(ê¬ï8Ú©ê“å1
 E
-java:S1481
-"(Remove this unused "st2" local variable.(ÙÊ¶÷8‘ç¦íä1
+java:S1481"(Remove this unused "st2" local variable.(ÙÊ¶÷8Û©ê“å1
 J
-java:S1481"(Remove this unused "st3" local variable.(ëÓ”øÿÿÿÿ8‘ç¦íä1
+java:S1481"(Remove this unused "st3" local variable.(ëÓ”øÿÿÿÿ8±íê“å1
